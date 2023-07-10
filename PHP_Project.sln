@@ -9,6 +9,10 @@ Project("{13B669BE-BB05-4DDF-9536-439F39A36129}") = "01_Calculator", "..\01_Calc
 EndProject
 Project("{13B669BE-BB05-4DDF-9536-439F39A36129}") = "02_Class", "..\02_Class\02_Class.phpproj", "{B52AB2F6-D856-49AA-AE47-2C802068B9BF}"
 EndProject
+Project("{13B669BE-BB05-4DDF-9536-439F39A36129}") = "03_0_SessionCookie", "..\03_0_SessionCookie\03_0_SessionCookie.phpproj", "{022DD11B-51FF-42AA-A9EC-CA1DAE1297A1}"
+EndProject
+Project("{13B669BE-BB05-4DDF-9536-439F39A36129}") = "03_Website", "..\03_Website\03_Website.phpproj", "{F7AC0C6C-120C-4111-AAF1-39892DED89E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{B52AB2F6-D856-49AA-AE47-2C802068B9BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B52AB2F6-D856-49AA-AE47-2C802068B9BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B52AB2F6-D856-49AA-AE47-2C802068B9BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{022DD11B-51FF-42AA-A9EC-CA1DAE1297A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{022DD11B-51FF-42AA-A9EC-CA1DAE1297A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{022DD11B-51FF-42AA-A9EC-CA1DAE1297A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{022DD11B-51FF-42AA-A9EC-CA1DAE1297A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7AC0C6C-120C-4111-AAF1-39892DED89E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7AC0C6C-120C-4111-AAF1-39892DED89E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7AC0C6C-120C-4111-AAF1-39892DED89E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7AC0C6C-120C-4111-AAF1-39892DED89E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
