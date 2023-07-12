@@ -13,6 +13,8 @@ Project("{13B669BE-BB05-4DDF-9536-439F39A36129}") = "03_0_SessionCookie", "..\03
 EndProject
 Project("{13B669BE-BB05-4DDF-9536-439F39A36129}") = "03_Website", "..\03_Website\03_Website.phpproj", "{F7AC0C6C-120C-4111-AAF1-39892DED89E5}"
 EndProject
+Project("{13B669BE-BB05-4DDF-9536-439F39A36129}") = "03_5_JsonSample", "..\03_5_JsonSample\03_5_JsonSample.phpproj", "{CE7BEB69-8E71-438D-97BC-203916B51377}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{F7AC0C6C-120C-4111-AAF1-39892DED89E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7AC0C6C-120C-4111-AAF1-39892DED89E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7AC0C6C-120C-4111-AAF1-39892DED89E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE7BEB69-8E71-438D-97BC-203916B51377}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE7BEB69-8E71-438D-97BC-203916B51377}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE7BEB69-8E71-438D-97BC-203916B51377}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE7BEB69-8E71-438D-97BC-203916B51377}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
